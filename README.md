@@ -1,6 +1,8 @@
 # Skills
 
-[![skills.sh](https://skills.sh/b/naikorasu/skills)](https://skills.sh/naikorasu/skills)
+![skills.sh](https://img.shields.io/badge/skills-.sh-red)
+
+
 
 Agent skills collection. Designed to be installed via `npx skills add`.
 

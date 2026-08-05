@@ -16,6 +16,7 @@ The user must provide (or the agent must request) these 3 key inputs before gene
 - `SOURCE_INFO`: Raw text, technical notes, URLs, or concept outlines.
 - `DOC_OBJECTIVE`: The primary goal or purpose of the document.
 - `TARGET_AUDIENCE`: The intended reader (e.g., C-Level, Junior Dev, General Public).
+- `OWNER`: The creator of the document (e.g., Github User, User who initiate to create this document).
 
 ## Instructions
 
@@ -30,6 +31,7 @@ Place dynamic **shields.io** badges at the top indicating Status, Version, Audie
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Owner](https://img.shields.io/badge/Owner-[OWNER]-yellow)
 ![Audience](https://img.shields.io/badge/Target-[TARGET_AUDIENCE]-orange)
 ![Read Time](https://img.shields.io/badge/Read_Time-5_min-green)
 
@@ -113,9 +115,14 @@ Follow this structure for the final output:
 
 ## 🚀 Step-by-Step Action Plan
 
-- [x] **Phase 1:** Initial setup and context gathering
-- [ ] **Phase 2:** Execution and implementation
-- [ ] **Phase 3:** Verification and review
+### Implementation Phase 001 - The Simple Title of Implementaion Phase 1 
+
+- GOAL-001: Description of the goal of Implementation Phase 001
+
+| Task | Description | Completed | Date |
+|------|-------------|-----------|------|
+| TASK-001 | description |  |  |
+
 
 ---
 

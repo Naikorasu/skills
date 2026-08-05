@@ -9,16 +9,6 @@ Agent skills collection. Designed to be installed via `npx skills add`.
 ## Installation
 
 ```bash
-# Install all skills
-npx skills add naikorasu/skills
-
-# Install a specific skill
-npx skills add naikorasu/skills --skill create-infographic-document
-```
-
-Or install directly from GitHub URL:
-
-```bash
 npx skills add https://github.com/naikorasu/skills --skill create-infographic-document
 ```
 
